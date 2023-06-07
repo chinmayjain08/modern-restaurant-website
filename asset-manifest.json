@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/modern-restaurant-website/static/css/main.6e997ce1.chunk.css",
-    "main.js": "/modern-restaurant-website/static/js/main.687659b5.chunk.js",
-    "main.js.map": "/modern-restaurant-website/static/js/main.687659b5.chunk.js.map",
+    "main.js": "/modern-restaurant-website/static/js/main.f07b1fc2.chunk.js",
+    "main.js.map": "/modern-restaurant-website/static/js/main.f07b1fc2.chunk.js.map",
     "runtime-main.js": "/modern-restaurant-website/static/js/runtime-main.1ca0ab58.js",
     "runtime-main.js.map": "/modern-restaurant-website/static/js/runtime-main.1ca0ab58.js.map",
     "static/js/2.a0981b82.chunk.js": "/modern-restaurant-website/static/js/2.a0981b82.chunk.js",
@@ -22,7 +22,6 @@
     "static/media/gallery02.27663bd9.png": "/modern-restaurant-website/static/media/gallery02.27663bd9.png",
     "static/media/gallery03.b2d50180.png": "/modern-restaurant-website/static/media/gallery03.b2d50180.png",
     "static/media/gallery04.c36a695f.png": "/modern-restaurant-website/static/media/gallery04.c36a695f.png",
-    "static/media/gericht.1bc9d30b.png": "/modern-restaurant-website/static/media/gericht.1bc9d30b.png",
     "static/media/knife.1121c0a5.png": "/modern-restaurant-website/static/media/knife.1121c0a5.png",
     "static/media/laurels.e7608286.png": "/modern-restaurant-website/static/media/laurels.e7608286.png",
     "static/media/logo.0286194c.png": "/modern-restaurant-website/static/media/logo.0286194c.png",
@@ -37,6 +36,6 @@
     "static/js/runtime-main.1ca0ab58.js",
     "static/js/2.a0981b82.chunk.js",
     "static/css/main.6e997ce1.chunk.css",
-    "static/js/main.687659b5.chunk.js"
+    "static/js/main.f07b1fc2.chunk.js"
   ]
 }
